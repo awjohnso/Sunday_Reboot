@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Disabled</key>
+		<false/>
+		<key>Label</key>
+		<string>edu.stonybrook.doit.sundayreboot</string>
+		<key>ProgramArguments</key>
+		<array>
+			<string>/usr/local/bin/sundayreboot.zsh</string>
+		</array>
+		<key>StartCalendarInterval</key>
+		<array>
+			<dict>
+				<key>Hour</key>
+				<integer>0</integer>
+				<key>Minute</key>
+				<integer>15</integer>
+				<key>Weekday</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
